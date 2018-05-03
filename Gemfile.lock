@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    test_case_generator (0.4.0)
+      thor
+    thor (0.20.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  test_case_generator
+
+BUNDLED WITH
+   1.16.1
